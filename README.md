@@ -64,6 +64,7 @@ java TextProcessor
 Програма виведе приблизно таке:
 
 === Вхідний текст ===
+
 Hello world, this is a sample text with some letters.
 
 Слова, відсортовані за кількістю символу 'l':
