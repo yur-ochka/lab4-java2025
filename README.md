@@ -51,11 +51,11 @@ cd src
 ```
 
 ```bash
-javac Main.java
+javac *.java
 ```
 
 ```bash
-java Main
+java TextProcessor
 ```
 
 
